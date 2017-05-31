@@ -5,3 +5,4 @@
 ## 実装方法
 
 以下のQiitaの記事を御覧ください。
+http://qiita.com/mobilebiz/items/b9117ec179d5dc18e870
